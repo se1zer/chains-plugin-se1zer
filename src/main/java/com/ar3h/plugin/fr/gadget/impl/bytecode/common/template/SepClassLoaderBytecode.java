@@ -1,4 +1,4 @@
-package com.ar3h.plugin.fr.template;
+package com.ar3h.plugin.fr.gadget.impl.bytecode.common.template;
 
 import java.lang.reflect.Method;
 import java.util.Base64;

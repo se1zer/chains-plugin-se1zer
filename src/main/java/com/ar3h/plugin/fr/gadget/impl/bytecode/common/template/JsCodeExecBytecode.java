@@ -3,7 +3,7 @@
 // (powered by FernFlower decompiler)
 //
 
-package com.ar3h.plugin.fr.template;
+package com.ar3h.plugin.fr.gadget.impl.bytecode.common.template;
 
 import javax.script.ScriptEngineManager;
 

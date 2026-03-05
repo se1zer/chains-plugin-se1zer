@@ -1,4 +1,4 @@
-package com.ar3h.plugin.fr;
+package com.ar3h.plugin.fr.gadget.impl.bytecode.common;
 
 import com.ar3h.chains.common.Gadget;
 import com.ar3h.chains.common.GadgetChain;
@@ -7,7 +7,7 @@ import com.ar3h.chains.common.annotations.GadgetAnnotation;
 import com.ar3h.chains.common.annotations.GadgetTags;
 import com.ar3h.chains.common.param.Param;
 import com.ar3h.chains.common.util.JavassistHelper;
-import com.ar3h.plugin.fr.template.SepClassLoaderBytecode;
+import com.ar3h.plugin.fr.gadget.impl.bytecode.common.template.SepClassLoaderBytecode;
 
 @GadgetTags(
         tags = {"Bytecode", "Spring", "END"}
