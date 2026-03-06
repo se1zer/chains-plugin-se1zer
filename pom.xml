@@ -6,7 +6,7 @@
 
     <groupId>com.ar3h</groupId>
     <artifactId>chains-plugin-se1zer</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>v1.0.1</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
