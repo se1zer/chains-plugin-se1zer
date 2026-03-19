@@ -1,14 +1,4 @@
-<div align="center">
-
-# chains-plugin-se1zer
-
-<img src="https://img.shields.io/badge/Java-8+-orange?style=flat-square&logo=java" alt="Java">
-<img src="https://img.shields.io/badge/Maven-1.0--SNAPSHOT-blue?style=flat-square&logo=apache-maven" alt="Maven">
-<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-
-**Java-Chains 自定义 Gadget 插件集**
-
-</div>
+![chains-plugin-se1zer](https://socialify.git.ci/se1zer/chains-plugin-se1zer/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Light)
 
 ---
 
@@ -32,7 +22,7 @@ Java-Chains 是一款强大的 Java 反序列化利用链生成工具，通过�
 | Gadget | 依赖                             | JDK 版本 | 描述                                                |
 |--------|--------------------------------|-------|---------------------------------------------------|
 | `SpringAopToString` | org.springframework:spring-aop |       | JdkDynamicAopProxy#invoke 方法调用任意对象的 toString() 方法 |
-| `SpringAopToString` | 1.2.75 < fastjson <= 1.2.80    | JDK11 | 缓存 OutputSteam 通过 sun.rmi.log.LogOutputStream写文件  |
+| `FastjsonWriteFileJDK11_1_2_80` | 1.2.75 < fastjson <= 1.2.80    | JDK11 | 缓存 OutputSteam 通过 sun.rmi.log.LogOutputStream写文件  |
 
 ### 字节码 Gadget
 
